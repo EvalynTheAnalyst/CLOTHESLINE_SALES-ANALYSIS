@@ -5,39 +5,35 @@
 
 Key Metrics:
 Total Revenue in June: 2.39K $
+
 Average Sales Revenue: 79.69$
   
 Raw Material Usage:
 Raw Material Quantity by type shows the distribution of raw materials used:
-.) Cotton: Largest portion
- .) Wool, Leather, Cashmere, Polyester, Fabrics: Smaller portions, with varying degrees of usage.
+	.) Cotton: Largest portion
+	.) Wool, Leather, Cashmere, Polyester, Fabrics: Smaller portions, with varying degrees of usage.
   
 Customer Purchase Habits:
 Customer purchase habits indicate-
-  .) Menswear: Highest number of customers, especially in Truro and Wakefield.
- 	 .) Accessories and Sports: Fewer customers, but a steady presence in all regions.
+  	.) Menswear: Highest number of customers, especially in Truro and Wakefield.
+ 	.) Accessories and Sports: Fewer customers, but a steady presence in all regions.
   
 Regional Revenue Distribution:
 Total Revenue by Region highlights:
 	.) Wakefield: Highest total revenue, significantly more than other regions.
- 
 	.) Truro, Wells, York, Winchester, Worcester: Moderate to low revenue in descending order.
   
 Sales by Product Description:
 Total Sales by Product indicates:
-  .) Formal Shirts, Pants, T-Shirts: Top-selling products.
-	
-  .) Pyjamas, Winter Coats, Jeans: Moderate sales.
-	
- 	.) Underwear, Suits, Shoes: Lower sales compared to other categories.
+  	.) Formal Shirts, Pants, T-Shirts: Top-selling products.
+  	.) Pyjamas, Winter Coats, Jeans: Moderate sales.
+	.) Underwear, Suits, Shoes: Lower sales compared to other categories.
   
 Daily Sales Per Region:
 Daily Sales Per Region over a specific period in June shows:
-.) Truro: Fluctuating sales with a peak around mid-June.
-
-.) Wakefield: Consistently high sales, peaking around mid-June.
-
-.) Wells, Winchester: Lower but steady sales, with occasional peaks.
+	.) Truro: Fluctuating sales with a peak around mid-June.
+	.) Wakefield: Consistently high sales, peaking around mid-June.
+	.) Wells, Winchester: Lower but steady sales, with occasional peaks.
   
 Insights and Recommendations
 
