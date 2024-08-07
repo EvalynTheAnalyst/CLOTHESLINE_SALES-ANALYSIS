@@ -19,22 +19,28 @@ Customer purchase habits indicate-
   
 Regional Revenue Distribution:
 Total Revenue by Region highlights:
-.) Wakefield: Highest total revenue, significantly more than other regions.
- 	 .) Truro, Wells, York, Winchester, Worcester: Moderate to low revenue in descending order.
+	.) Wakefield: Highest total revenue, significantly more than other regions.
+ 
+	.) Truro, Wells, York, Winchester, Worcester: Moderate to low revenue in descending order.
   
 Sales by Product Description:
 Total Sales by Product indicates:
- 	 .) Formal Shirts, Pants, T-Shirts: Top-selling products.
-  	.) Pyjamas, Winter Coats, Jeans: Moderate sales.
+  .) Formal Shirts, Pants, T-Shirts: Top-selling products.
+	
+  .) Pyjamas, Winter Coats, Jeans: Moderate sales.
+	
  	.) Underwear, Suits, Shoes: Lower sales compared to other categories.
   
 Daily Sales Per Region:
 Daily Sales Per Region over a specific period in June shows:
-  	.) Truro: Fluctuating sales with a peak around mid-June.
+.) Truro: Fluctuating sales with a peak around mid-June.
+
 .) Wakefield: Consistently high sales, peaking around mid-June.
+
 .) Wells, Winchester: Lower but steady sales, with occasional peaks.
   
 Insights and Recommendations
+
 Product Focus:
 Menswear, especially Formal Shirts, Pants, and T-Shirts, are driving the majority of sales. Focusing marketing efforts on these products could further increase revenue.
 
