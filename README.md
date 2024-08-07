@@ -1,14 +1,18 @@
-# CLOTHESLINE_SALES-ANALYSIS
+# CLOTHES_SALES_ANALYSIS
 **Overview**
+  
   The Clothes Line Sales Analysis provides a comprehensive overview of sales performance, customer purchasing habits, raw material usage, and regional revenue distribution.    The data analyzed is from June, with specific metrics highlighting daily sales, total revenue, and average sales revenue.
 
 Key Metrics:
-  Total Revenue in June: 2.39K $
+
+  1Total Revenue in June: 2.39K $
+  
   Average Sales Revenue: 79.69$
   
 Raw Material Usage:
 Raw Material Quantity By Type shows the distribution of raw materials used:
   .)Cotton: Largest portion
+  
   .)Wool, Leather, Cashmere, Polyester, Fabrics: Smaller portions, with varying degrees of usage.
   
 Customer Purchase Habits:
