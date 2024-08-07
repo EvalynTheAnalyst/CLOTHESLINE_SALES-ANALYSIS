@@ -1,6 +1,5 @@
 # CLOTHES_SALES_ANALYSIS
 **Overview**
-  
   The Clothes Line Sales Analysis provides a comprehensive overview of sales performance, customer purchasing habits, raw material usage, and regional revenue distribution.    The data analysed is from June 2021, with specific metrics highlighting daily sales, total revenue, and average sales revenue.
 
 Key Metrics:
